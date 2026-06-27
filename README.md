@@ -21,7 +21,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [hotel-booking-chatbot]([link](https://github.com/Jay24-coder/hotel-booking-chatbot)) | Multi-agent hotel booking assistant with voice (Whisper) | LangGraph, Chainlit, PostgreSQL |
+| [hotel-booking-chatbot](https://github.com/Jay24-coder/hotel-booking-chatbot) | Multi-agent hotel booking assistant with voice (Whisper) | LangGraph, Chainlit, PostgreSQL |
 | [education-chatbot]([link](https://github.com/Jay24-coder/education-chatbot)) | Multi-agent educational assistant with guardrails | FastAPI, LangGraph, Redis |
 | [vectorless_rag]([link](https://github.com/Jay24-coder/vectorless_rag)) | RAG experimentation / vectorless retrieval | Python, LlamaIndex |
 | [img2table]([link](https://github.com/Jay24-coder/img2table)) | PDF table extraction with OCR | img2table, Tesseract |
