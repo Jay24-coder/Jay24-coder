@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Jay Parmar 👋
 
-<!--
-**Jay24-coder/Jay24-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer** building production AI systems — multi-agent chatbots, RAG, computer vision, and document AI.
 
-Here are some ideas to get you started:
+📍 Mumbai, India  
+💼 Software Developer @ Focalworks Solutions  
+🔗 www.linkedin.com/in/jayp24
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Build
+
+- 🤖 **Agentic AI** — LangGraph multi-agent systems, supervisor routing, human-in-the-loop
+- 📄 **Document AI & OCR** — PDF ingestion, table extraction, RAG pipelines
+- 👁️ **Computer Vision** — image embeddings, similarity search, segmentation, object detection
+- 🚀 **Production ML** — FastAPI, Docker, PostgreSQL, MLflow, Langfuse
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [hotel-booking-chatbot]([link](https://github.com/Jay24-coder/hotel-booking-chatbot)) | Multi-agent hotel booking assistant with voice (Whisper) | LangGraph, Chainlit, PostgreSQL |
+| [education-chatbot]([link](https://github.com/Jay24-coder/education-chatbot)) | Multi-agent educational assistant with guardrails | FastAPI, LangGraph, Redis |
+| [vectorless_rag]([link](https://github.com/Jay24-coder/vectorless_rag)) | RAG experimentation / vectorless retrieval | Python, LlamaIndex |
+| [img2table]([link](https://github.com/Jay24-coder/img2table)) | PDF table extraction with OCR | img2table, Tesseract |
+| [mlflow]([link](https://github.com/Jay24-coder/mlflow)) | MLOps pipeline for image classification | MLflow, TensorFlow, Docker |
+
+---
+
+## 🛠️ Tech Stack
+
+**Gen AI:** RAG, LangChain, LangGraph, OpenAI GPT, Llama, Pinecone, Langfuse  
+**ML/CV:** PyTorch, TensorFlow, Keras, scikit-learn, FAISS  
+**Backend:** Python, FastAPI, REST APIs, PostgreSQL, Redis, Docker, CI/CD  
